@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report, confusion_matrix
 
-
+#1123
 # 从Excel表格中读取数据，假设文件名为 'core_loss_data.xlsx'
 data = pd.read_excel('002.xlsx')
 
